@@ -1,0 +1,6 @@
+@Smooth.BffProxy_HostAddress = http://localhost:5198
+
+GET {{Smooth.BffProxy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

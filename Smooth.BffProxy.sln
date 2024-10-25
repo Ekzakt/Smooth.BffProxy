@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D826E973-152C-4943-A05F-853A77484F8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smooth.BffProxy", "Smooth.BffProxy\Smooth.BffProxy.csproj", "{7A4928C9-F0D2-40F3-9118-290782ECF4BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A4928C9-F0D2-40F3-9118-290782ECF4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4928C9-F0D2-40F3-9118-290782ECF4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4928C9-F0D2-40F3-9118-290782ECF4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4928C9-F0D2-40F3-9118-290782ECF4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7A4928C9-F0D2-40F3-9118-290782ECF4BC} = {D826E973-152C-4943-A05F-853A77484F8D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD1B6C7-5F92-420B-AA88-A66E88E8F181}
+	EndGlobalSection
+EndGlobal
